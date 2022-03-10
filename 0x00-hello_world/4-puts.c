@@ -3,7 +3,7 @@
 /**
   *main -  the first where compiling point starts
   *
-  *Return : Always 0 (success)
+  *Return: Always 0 (success)
   */
 int main(void)
 {
