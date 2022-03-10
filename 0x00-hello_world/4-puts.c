@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <string.h>
 /**
-  * main -  the first where compiling point starts
+  *main -  the first where compiling point starts
   *
-  * Return : Always 0 (success)
+  *Return : Always 0 (success)
   */
 int main(void)
 {
