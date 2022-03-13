@@ -5,8 +5,8 @@
 /**
  *main - Entry point
  *
-Return: Always 0 (success/correct)
-*/
+ *Return: Always 0 (success/correct)
+ */
 
 int main(void)
 {
@@ -18,7 +18,7 @@ int main(void)
 	{
 		printf("%i is zero\n", n);
 	}
-	else if (n<0)
+	else if (n < 0)
 	{
 		printf("%i is negative\n", n);
 	}
@@ -29,4 +29,4 @@ int main(void)
 	}
 
 	return (0);
-}	
+}
