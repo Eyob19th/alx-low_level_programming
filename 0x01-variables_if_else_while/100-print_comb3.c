@@ -2,7 +2,7 @@
 /**
   *main - entry point
   *
-  *Return Always 0 (success)
+  *Return: Always 0 (success)
   */
 int main(void)
 {
@@ -20,7 +20,7 @@ int main(void)
 			putchar(k + '0');
 			putchar(j + '0');
 
-			if (i < 98)
+			if (i < 89)
 			{
 				putchar(',');
 				putchar(' ');
