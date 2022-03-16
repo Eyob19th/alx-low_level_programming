@@ -2,7 +2,7 @@
 /**
   *_islower - check whetre the input is lowercase or not
   *@c: char type c
-  *Return: 1 (lowercase) and 0 (uppercase)
+  *Returned: 1 (lowercase) and 0 (uppercase)
   */
 int _islower(int c)
 {
@@ -15,4 +15,3 @@ int _islower(int c)
 		return (0);
 	}
 }
-
