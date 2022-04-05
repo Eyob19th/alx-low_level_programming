@@ -7,7 +7,7 @@
   *Return: pointer
   */
 
-char * _strdup(char *str)
+char *_strdup(char *str)
 {
 	char *x;
 	int i, j;
